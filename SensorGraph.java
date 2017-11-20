@@ -118,6 +118,6 @@ public class SensorGraph {
     }
     
     public static void main(String[] args) {
-      SensorGraph xyz = new SensorGraph();	
+      SensorGraph graph = new SensorGraph();	
     }
 }
