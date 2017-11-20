@@ -15,6 +15,10 @@ import org.jfree.data.xy.XYSeries;
 import org.jfree.data.xy.XYSeriesCollection;
 import com.fazecast.jSerialComm.SerialPort;
 
+/////////////////////////////////////////////
+///Author: Yoseph Hasson; GitHub: MDbrosev///
+/////////////////////////////////////////////
+
 public class SensorGraph {
 
     private static SerialPort port;	
